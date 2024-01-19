@@ -11,15 +11,15 @@
 
 - 🌱 I’m currently learning *Web Devlopment*
 
-- 💬 Ask me about *HTML | CSS | JavaScript | NodeJs | ExpressJs | MongoDB*
+- 💬 Ask me about *HTML | CSS | JavaScript | Python | Django | NodeJs | ExpressJs | MongoDB*
 
-- 📫 How to reach me *dnyaneshwarpatil830831@gmail.com*
+- 📫 How to reach me *rohitkagankar@gmail.com*
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://Rohitkagankar.github.io" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=LoyAjcvVKv1K&format=png" alt="Dnyaneshwar Patil" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/dnyaneshwar-patil-605a03203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dnyaneshwar patil" height="30" width="40" /></a>
+  <a href="https://Rohitkagankar.github.io" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=LoyAjcvVKv1K&format=png" alt="Rohit Kagankar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rohit-kagankar-86a27924a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rohit Kagankar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
