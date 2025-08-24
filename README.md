@@ -3,15 +3,15 @@
 <img align="center" alt="baner" src="https://user-images.githubusercontent.com/112823546/217016507-da977155-0e3a-48ff-905c-e3eecfdf2b00.png">
 
 <h1 align="center">Hi 👋, I'm Rohit Kagankar</h1>
-<h3 align="center">A seasoned web developer specializing in Node.js and backend technologies with a robust portfolio in building scalable and efficient web applications. Proficient in crafting seamless user experiences through a deep understanding of backend systems and front-end interactions. Skilled in utilizing Node.js frameworks to architect robust APIs and handling database operations. Committed to staying updated with the latest trends in web development to deliver high-quality, performant, and secure applications.</h3>
+<h3 align="center">A seasoned Java developer specializing in Java and backend technologies with a robust portfolio in building scalable and efficient java applications. Proficient in crafting seamless user experiences through a deep understanding of backend systems and front-end interactions. Skilled in utilizing Springboot frameworks to architect robust APIs and handling database operations. Committed to staying updated with the latest trends in development to deliver high-quality, performant, and secure applications.</h3>
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohitkagankar&label=Profile%20views&color=0e75b6&style=flat" alt="Rohitkagankar" /> </p>
 
-- 🌱 I’m currently learning *Web Devlopment*
+- 🌱 I’m currently learning *Java Devlopment*
 
-- 💬 Ask me about *HTML | CSS | JavaScript | Python | Django | NodeJs | ExpressJs | MongoDB*
+- 💬 Ask me about *Java | Spring Boot | SQL | HTML | CSS | JavaScript | React*
 
 - 📫 How to reach me *rohitkagankar@gmail.com*
 
